@@ -30,6 +30,18 @@ I’m currently looking to grow as a developer by collaborating with forward-thi
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arbaaz-hussain-5&show_icons=true&theme=light&count_private=true&line_height=24" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbaaz-hussain-5&layout=compact&theme=light" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arbaaz-hussain-5&theme=light&hide_border=true" />
+</p>
+
+---
 ## ✨ Technologies I Work With
 
 ### 🎨 UI & Dashboards
@@ -56,6 +68,11 @@ I’m currently looking to grow as a developer by collaborating with forward-thi
   <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
   <img src="https://img.shields.io/badge/Mongoose-800000?style=for-the-badge"/>
 </p>
+
+---
+## 📢 coding 
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/mdarbaazhussain666/)
 
 ---
 
